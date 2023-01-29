@@ -9,4 +9,4 @@ Link to the Project : https://calculator-theta-six.vercel.app/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
 
 # Screenshots
-<img src ="" width="620" height="620">
+
